@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1650888421 source:d:\courses\embedded system m.z\first projects\bank database project\database.c
+
+1651161527 source:d:\courses\embedded system m.z\first projects\bank database project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1650888421 source:d:\courses\embedded system m.z\training projects\codeblocks projects\bank database project\database.c
+
